@@ -3,9 +3,10 @@
     "tooth": "github.com/Tooth-Hub/7zip",
     "information": {
         "name": "7-Zip Lip Tool",
-        "description": "7-Zip for Lip",
-        "author": "Igor Pavlov.",
-        "license": "LGPL-2.1",
-        "homepage": "https://www.7-zip.org/"
+        "description": "A Lip tool adaptation of 7-Zip",
+        "author": "Futrime",
+        "license": "LGPL-2.1-or-later",
+        "homepage": "https://www.7-zip.org/",
+        "repository": "github.com/Tooth-Hub/7zip"
     }
 }

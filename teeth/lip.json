@@ -5,7 +5,8 @@
         "name": "Lip",
         "description": "A package installer, not only for LiteLoaderBDS",
         "author": "LiteLDev",
-        "license": "GPL-3.0",
-        "homepage": "https://github.com/LiteLDev/Lip"
+        "license": "GPL-3.0-only",
+        "homepage": "https://github.com/LiteLDev/Lip",
+        "repository": "github.com/LiteLDev/Lip"
     }
 }

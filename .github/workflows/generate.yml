@@ -14,7 +14,7 @@ jobs:
 
       - name: Download reggen
         run: |
-          curl -L https://github.com/LiteLDev/RegistryGenerator/releases/download/v0.1.0/reggen \
+          curl -L https://github.com/LiteLDev/RegistryGenerator/releases/download/v0.2.0/reggen \
             -o reggen
           chmod +x reggen
 
@@ -37,6 +37,7 @@ jobs:
 
   deploy_pages:
     name: Deploy pages
+    if: github.event_name == 'push'
     needs: generate
     permissions:
       id-token: write

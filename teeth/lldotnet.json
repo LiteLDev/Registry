@@ -5,7 +5,8 @@
         "name": "LiteLoader.NET",
         "description": "LiteLoader bindings for .NET",
         "author": "LiteLDev",
-        "license": "LGPLv3",
-        "homepage": "https://github.com/LiteLDev/LiteLoader.NET"
+        "license": "LGPL-3.0-only",
+        "homepage": "https://github.com/LiteLDev/LiteLoader.NET",
+        "repository": "github.com/LiteLDev/LiteLoader.NET"
     }
 }

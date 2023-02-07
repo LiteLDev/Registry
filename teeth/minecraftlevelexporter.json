@@ -5,7 +5,8 @@
         "name": "Minecraft Level Exporter",
         "description": "Export and convert Minecraft level to NovelCraft level.",
         "author": "Futrime",
-        "license": "LGPLv3",
-        "homepage": "https://github.com/NovelCraft/MinecraftLevelExporter"
+        "license": "LGPL-3.0-only",
+        "homepage": "https://github.com/NovelCraft/MinecraftLevelExporter",
+        "repository": "github.com/NovelCraft/MinecraftLevelExporter"
     }
 }

@@ -6,6 +6,7 @@
         "description": "Minecraft, Bedrock Dedicated Server mod with node.js ",
         "author": "bdsx",
         "license": "MIT",
-        "homepage": "https://github.com/bdsx/bdsx"
+        "homepage": "https://github.com/bdsx/bdsx",
+        "repository": "github.com/bdsx/bdsx"
     }
 }

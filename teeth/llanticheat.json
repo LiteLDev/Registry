@@ -6,6 +6,7 @@
         "description": "Free AntiCheat plugin for LiteLoaderBDS 2",
         "author": "LiteLDev",
         "license": "",
-        "homepage": ""
+        "homepage": "https://github.com/LiteLDev/LLAntiCheat-release",
+        "repository": "github.com/LiteLDev/LLAntiCheat-release"
     }
 }
