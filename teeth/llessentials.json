@@ -5,7 +5,8 @@
         "name": "LLEssentials",
         "description": "Essentials plugin based on LiteLoaderBDS",
         "author": "LiteLDev",
-        "license": "GPLv3",
-        "homepage": "https://github.com/LiteLDev/LLEssentials"
+        "license": "GPL-3.0-only",
+        "homepage": "https://github.com/LiteLDev/LLEssentials",
+        "repository": "github.com/LiteLDev/LLEssentials"
     }
 }

@@ -5,7 +5,8 @@
         "name": "PixelFaramitaLuminousPolymerization",
         "description": "brand new essentials plugin kit",
         "author": "LazuliKao",
-        "license": "Copyright © 2023 Pixel Faramita All rights reserved",
-        "homepage": "https://github.com/LazuliKao/PixelFaramitaLuminousPolymerizationRes"
+        "license": "",
+        "homepage": "https://github.com/LazuliKao/PixelFaramitaLuminousPolymerizationRes",
+        "repository": "github.com/LazuliKao/PixelFaramitaLuminousPolymerizationRes"
     }
 }
