@@ -1,0 +1,12 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/twoone-3/pyr-tooth",
+    "information": {
+        "name": "BDSpyrunner",
+        "description": "support python in liteloderbds",
+        "author": "twoone3",
+        "license": "GPL3",
+        "homepage": "https://github.com/twoone-3/pyr-tooth",
+        "repository": "github.com/twoone-3/BDSpyrunner"
+    },
+}
