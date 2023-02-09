@@ -1,0 +1,12 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/Tooth-Hub/BDS",
+    "information": {
+        "name": "Minecraft Bedrock Dedicated Server",
+        "description": "Bedrock Dedicated Servers allow Minecraft players on Windows and Linux computers to set up their own server at home, or host their server using a cloud-based service.",
+        "author": "Mojang",
+        "license": "",
+        "homepage": "https://www.minecraft.net",
+        "repository": "github.com/Tooth-Hub/BDS"
+    }
+}

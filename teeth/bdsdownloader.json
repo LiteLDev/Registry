@@ -1,0 +1,12 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/Tooth-Hub/BDSDownloader",
+    "information": {
+        "name": "BDS Donwloader",
+        "description": "A CLI tool to download BDS",
+        "author": "Jasonzyt",
+        "license": "MIT",
+        "homepage": "https://github.com/Jasonzyt/BDSDownloader",
+        "repository": "github.com/Jasonzyt/BDSDownloader"
+    }
+}
