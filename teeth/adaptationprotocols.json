@@ -1,0 +1,14 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/Tooth-Hub/AdaptationProtocols",
+    "information": {
+        "name": "AdaptationProtocols",
+        "description": "Let 1.19.60/62 client into 1.19.63 server or 1.19.63 client into 1.19.61/62 server",
+        "author": "QingYu",
+        "repository": "github.com/Tooth-Hub/AdaptationProtocols",
+        "tags": [
+            "plugin",
+            "ll"
+        ]
+    }
+}
