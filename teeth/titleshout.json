@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/TitleShout",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "让玩家可以花费一些资源来在公屏上打出醒目 Title",
+    "homepage": "https://github.com/lgc-LLSEDev/TitleShout",
+    "license": "Apache-2.0",
+    "name": "TitleShout",
+    "repository": "github.com/lgc-LLSEDev/TitleShout",
+    "tags": ["plugin", "llse", "shout", "title", "titleshout"]
+  }
+}

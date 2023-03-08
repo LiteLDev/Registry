@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/DeathQuery",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "死亡记录查询",
+    "homepage": "https://github.com/lgc-LLSEDev/DeathQuery",
+    "license": "Apache-2.0",
+    "name": "DeathQuery",
+    "repository": "github.com/lgc-LLSEDev/DeathQuery",
+    "tags": ["plugin", "llse", "death", "query", "deathquery"]
+  }
+}

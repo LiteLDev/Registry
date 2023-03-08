@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/LLSEKoishi",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "LLSE 中的 Koishi Launcher，又一个群服互通解决方案",
+    "homepage": "https://github.com/lgc-LLSEDev/LLSEKoishi",
+    "license": "Apache-2.0",
+    "name": "LLSEKoishi & OneBotBridge",
+    "repository": "github.com/lgc-LLSEDev/LLSEKoishi",
+    "tags": [
+      "plugin",
+      "llse",
+      "koishi",
+      "gocq",
+      "gocqhttp",
+      "onebot",
+      "gocqsync",
+      "qq",
+      "sync",
+      "group",
+      "qqgroup",
+      "bot",
+      "chatbot",
+      "llsekoishi",
+      "bridge",
+      "onebotbridge",
+      "nodejs"
+    ]
+  }
+}

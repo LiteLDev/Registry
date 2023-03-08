@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/StuSign",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "简洁的签到插件",
+    "homepage": "https://github.com/lgc-LLSEDev/StuSign",
+    "license": "Apache-2.0",
+    "name": "StuSign",
+    "repository": "github.com/lgc-LLSEDev/StuSign",
+    "tags": ["plugin", "llse", "sign", "check", "checkin", "simple", "stusign"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/NavigationAPI",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "其他插件可对接的导航 API",
+    "homepage": "https://github.com/lgc-LLSEDev/NavigationAPI",
+    "license": "Apache-2.0",
+    "name": "NavigationAPI",
+    "repository": "github.com/lgc-LLSEDev/NavigationAPI",
+    "tags": ["module", "llse", "navigate", "navigation", "api", "navigationapi"]
+  }
+}

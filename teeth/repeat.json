@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/Repeat",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "聊天消息 +1 复读机",
+    "homepage": "https://github.com/lgc-LLSEDev/Repeat",
+    "license": "Apache-2.0",
+    "name": "Repeat",
+    "repository": "github.com/lgc-LLSEDev/Repeat",
+    "tags": ["plugin", "llse", "repeat", "repeator"]
+  }
+}

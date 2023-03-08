@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/DiskUsageStop",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "当 BDS 所在硬盘分区使用量超过指定比例时停服",
+    "homepage": "https://github.com/lgc-LLSEDev/DiskUsageStop",
+    "license": "Apache-2.0",
+    "name": "DiskUsageStop",
+    "repository": "github.com/lgc-LLSEDev/DiskUsageStop",
+    "tags": [
+      "plugin",
+      "llse",
+      "disk",
+      "usage",
+      "space",
+      "stop",
+      "auto",
+      "diskusagestop",
+      "nodejs"
+    ]
+  }
+}

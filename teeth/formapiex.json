@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/FormAPIEx",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "让处理表单返回值变得更容易！",
+    "homepage": "https://github.com/lgc-LLSEDev/FormAPIEx",
+    "license": "Apache-2.0",
+    "name": "FormAPIEx",
+    "repository": "github.com/lgc-LLSEDev/FormAPIEx",
+    "tags": [
+      "module",
+      "llse",
+      "form",
+      "api",
+      "async",
+      "customform",
+      "simpleform",
+      "modalform",
+      "formapiex"
+    ]
+  }
+}

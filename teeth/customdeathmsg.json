@@ -1,0 +1,21 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/CustomDeathMsg",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "自定义玩家死亡消息",
+    "homepage": "https://github.com/lgc-LLSEDev/CustomDeathMsg",
+    "license": "Apache-2.0",
+    "name": "CustomDeathMsg",
+    "repository": "github.com/lgc-LLSEDev/CustomDeathMsg",
+    "tags": [
+      "plugin",
+      "llse",
+      "death",
+      "message",
+      "custom",
+      "customdeathmsg",
+      "customdeathmessage"
+    ]
+  }
+}

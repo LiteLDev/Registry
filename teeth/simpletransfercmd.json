@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/SimpleTransferCmd",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "简易跨服指令",
+    "homepage": "https://github.com/lgc-LLSEDev/SimpleTransferCmd",
+    "license": "Apache-2.0",
+    "name": "SimpleTransferCmd",
+    "repository": "github.com/lgc-LLSEDev/SimpleTransferCmd",
+    "tags": [
+      "plugin",
+      "llse",
+      "transfer",
+      "server",
+      "command",
+      "trans",
+      "simple",
+      "light",
+      "lightweight",
+      "simpletransfercmd"
+    ]
+  }
+}

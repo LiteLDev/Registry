@@ -1,0 +1,22 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/DroppableDeepSlate",
+  "information": {
+    "author": "student_2333 <lgc2333@126.com>",
+    "description": "让强化深板岩可以用下界合金镐挖下来！",
+    "homepage": "https://github.com/lgc-LLSEDev/DroppableDeepSlate",
+    "license": "Apache-2.0",
+    "name": "DroppableDeepSlate",
+    "repository": "github.com/lgc-LLSEDev/DroppableDeepSlate",
+    "tags": [
+      "plugin",
+      "llse",
+      "deepslate",
+      "reinforced",
+      "reinforceddeepslate",
+      "pickable",
+      "droppable",
+      "droppabledeepslate"
+    ]
+  }
+}
