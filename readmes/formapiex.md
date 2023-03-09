@@ -18,43 +18,6 @@
 
 见 [example.js](https://github.com/lgc-LLSEDev/FormAPIEx/blob/main/FormAPIEx/example.js)
 
-<!--
-
-## 编译
-
-1. 克隆本仓库，可以使用以下命令
-
-   ```bash
-   git clone https://github.com/lgc2333/LLSEPlugins.git --depth=1
-   ```
-
-2. （可选）克隆下来之后，安装本工作区的依赖
-
-   建议安装 `pnpm` 管理依赖，如果你没有安装，可以使用以下指令安装
-
-   ```bash
-   npm i pnpm -g
-   ```
-
-   安装完 `pnpm` 之后，在 仓库根目录 使用下面的命令安装工作区依赖
-
-   ```bash
-   pnpm i
-   ```
-
-3. 编译项目
-
-   使用下面的命令，打开本目录之后编译项目
-
-   ```bash
-   cd FormAPIEx
-   pnpm build
-   ```
-
-   之后编译好的文件会输出到 `lib` 文件夹
-
--->
-
 ## 引用
 
 ### QuickJS

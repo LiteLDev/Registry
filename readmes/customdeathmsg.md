@@ -13,10 +13,6 @@
 - 由于 LLSE 限制，插件只能取到伤害源实体信息，无法判断死亡方式等
 - 卸载插件后请手动执行`gamerule showdeathmessages true`指令恢复原版死亡消息
 
-## 安装方法
-
-见[插件下载安装教程](../tutorial.md)
-
 ## 配置文件
 
 插件配置文件位于`BDS根目录/plugins/CustomDeathMsg/config.json`（插件加载成功后自动生成）  

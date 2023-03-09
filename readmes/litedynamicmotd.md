@@ -1,18 +1,22 @@
 <!-- markdownlint-disable MD033 -->
 
-# SimpleTransferCmd
+# LiteDynamicMotd
 
-简易跨服指令
+简易动态 Motd 插件
 
-## 指令
+## 配置文件
 
-### `transfer <host: string> <port: integer> [player: Player]`
+实际的配置文件请不要有注释
 
-- 权限：所有人
-- 参数：
-  - `host` 服务器 IP
-  - `port` 服务器端口
-  - `player` 指定跨服玩家，仅 OP、控制台和命令方块 可用该参数
+```jsonc
+{
+  // 要展示的 Motd 列表
+  "motdList": ["这是第一个Motd", "这是第二个Motd", "这是第三个Motd"],
+
+  // 切换延迟，单位毫秒
+  "switchInterval": 5000
+}
+```
 
 ## 联系我
 
