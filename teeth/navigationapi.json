@@ -8,6 +8,6 @@
     "license": "Apache-2.0",
     "name": "NavigationAPI",
     "repository": "github.com/lgc-LLSEDev/NavigationAPI",
-    "tags": ["module", "llse", "navigate", "navigation", "api", "navigationapi"]
+    "tags": ["plugin", "llse", "navigate", "navigation", "api", "navigationapi"]
   }
 }
